@@ -1,9 +1,7 @@
 node_modules
 
 go.sum
-.DS_Store
-
+tmp
 
 .env
-
 package-lock.json
