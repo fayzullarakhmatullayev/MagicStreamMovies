@@ -5,3 +5,5 @@ go.sum
 
 
 .env
+
+package-lock.json
